@@ -1,0 +1,9 @@
+{
+    success: true,
+    menus: [
+        { id: 'iplistgrid', text: 'IP주소 목록', leaf: true, type: 'page', viewname: 'iplistgrid' },
+        { id: 'hardwaresearchpanel', text: '하드웨어 검색', leaf: true, type: 'page', viewname: 'hardwaresearchpanel' },
+        { id: 'softwaresearchpanel', text: '소프트웨어 검색', leaf: true, type: 'page', viewname: 'softwaresearchpanel' },
+        { id: 'menutree', text: 'menu', leaf: true, type: 'page', viewname: 'menutree' }
+    ]
+}

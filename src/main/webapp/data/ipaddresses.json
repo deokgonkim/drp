@@ -1,0 +1,7 @@
+{
+    success: true,
+    ipaddresses: [
+        { ipAddress: 'ipAddress', macAddess: 'macAddres', org: 'org', manager: 'manager', owner: 'owner', description: 'description' },
+        { ipAddress: '59.25.181.186', macAddress: '00:00:00:00:00:00', org: '미들웨어사업본부', manager: '김 대욱', owner: '김 덕곤', description: '' }
+    ]
+}

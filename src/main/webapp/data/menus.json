@@ -1,0 +1,8 @@
+{
+    success: true,
+    menus: [
+        { id: 'iplistgrid', text: 'IP주소 목록', leaf: true },
+        { id: 'menu2', text: 'menu2a', leaf: true },
+        { id: 'menu3', text: 'menu3a', leaf: true }
+    ]
+}
